@@ -1,2 +1,2 @@
 # yhat
-A bunch of jupyter notebooks
+A bunch of jupyter notebooks for stories on [medium@yhat](medium.com/@yhat).
